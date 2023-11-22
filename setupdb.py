@@ -3,8 +3,6 @@ import os
 
 """
 Use this file to create/delete a database for testing your functions in main.py.
-Be sure to delete the database before running wincpy check.
-Alternatively you can use :memory: in models.py to prevent wincpy from using your database.
 """
 
 
